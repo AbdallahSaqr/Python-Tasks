@@ -50,23 +50,5 @@ python 2.py
 # and so on...
 Each script will prompt for user input if needed and display the result in the terminal.
 
-Example Outputs
-Task 1: Reverse First and Last Name
-Enter your first name: John
-Enter your last name: Doe
-Output: Doe John
-Task 2: Compute n + nn + nnn
-Enter a number: 5
-Output: 615
-Task 6: Star Pattern (Pyramid)
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * 
-* * * 
-* * 
-* 
 License
 This project is open source and available under the MIT License.
