@@ -1,4 +1,5 @@
-##Python Tasks Repository
+## Python Tasks Repository
+
 This repository contains a collection of Python programs designed to solve various programming tasks. Each task includes a Python script that demonstrates basic concepts like input handling, loops, string manipulation, and more.
 
 Tasks List
